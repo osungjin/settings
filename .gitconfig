@@ -1,6 +1,6 @@
 [user]
-    name = Dongwon Kim
-    email = dongwon.kim@navercorp.com
+    name = Sungjin OH
+    email = sungjin.oh@linecorp.com
 [core]
     editor = vim
 [diff]
@@ -19,6 +19,6 @@
 [push]
     default = current
 [credential "https://github.com"]
-    username = dkim010
+    username = sungjin.oh
 [credential]
     helper = cache --timeout=3600
